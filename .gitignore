@@ -1,0 +1,5 @@
+.idea/
+*.exe
+*.xltx
+vendor/
+bin/
